@@ -87,7 +87,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 16px;
+  margin-top: 4px; /* Reduced margin to move button up */
 }
 /* Header styles */
 .header {
