@@ -112,7 +112,7 @@ body {
 /* Hero section styles */
 .hero {
   /* Updated background image */
-  background: url('https://charitywater.dropmark.com/993072/26804727') center/cover no-repeat;
+  background: url('img/hero-bg.jpg') center/cover no-repeat;
   min-height: 60vh;
   display: flex;
   align-items: center;
