@@ -112,7 +112,7 @@ body {
 /* Hero section styles */
 .hero {
   /* Updated background image */
-  background: url('https://cdn2.dropmarkusercontent.com/52043/971f45c07a1db2df43533f77e704c6238ac66e7670b22bd3395e0657817b9275/preview/4887_Ethiopia_2019_CG-.jpg?Expires=1757196971&Signature=MlDnq2ZtjgJYqs7Pc6Sw6HiZgK7ZcYB2Sqa2Fvno-N7xrz2seDpc~2zNW6UmCAytaFiOLAuLV8J3FXG2Oqf4sSVPqtPnZ2h4ti8UGHPK3fzklyK8RLVJrwYbv1EsOQxA3usdniMWP04ETt2-efaLY6onoinRBbEq3nwBVKdtAu40egOjg17vFrnmJNN6U0S3oFukNOv7W43E1oYZFwi6TQBgJvef~FhEvixwUOPlVxozuuCBZjMeUs2U1N7UIweBt0c60-xO0~1o3CZohka5ihtVoJ~q0K8ebrCKmm2JwK8jFaD08lsp-NujLWdhdJFh4TaYIdduUy~TAKmJIg2flw__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ.jpg') center/cover no-repeat;
+  background: url('https://cdn2.dropmarkusercontent.com/52043/971f45c07a1db2df43533f77e704c6238ac66e7670b22bd3395e0657817b9275/preview/4887_Ethiopia_2019_CG-.jpg?Expires=1757196971&Signature=MlDnq2ZtjgJYqs7Pc6Sw6HiZgK7ZcYB2Sqa2Fvno-N7xrz2seDpc~2zNW6UmCAytaFiOLAuLV8J3FXG2Oqf4sSVPqtPnZ2h4ti8UGHPK3fzklyK8RLVJrwYbv1EsOQxA3usdniMWP04ETt2-efaLY6onoinRBbEq3nwBVKdtAu40egOjg17vFrnmJNN6U0S3oFukNOv7W43E1oYZFwi6TQBgJvef~FhEvixwUOPlVxozuuCBZjMeUs2U1N7UIweBt0c60-xO0~1o3CZohka5ihtVoJ~q0K8ebrCKmm2JwK8jFaD08lsp-NujLWdhdJFh4TaYIdduUy~TAKmJIg2flw__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ') center/cover no-repeat;
   min-height: 60vh;
   display: flex;
   align-items: center;
